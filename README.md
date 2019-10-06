@@ -1,1 +1,2 @@
-# MagyarMelindaBarbara_E5JCB7
+# Programming 2
+Course assignments.
