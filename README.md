@@ -2,7 +2,7 @@
 Course assignments.
 
 Magyar Melinda Barbara</br>
-E5JCB7
+E5JCB7</br>
 </br>
 **Deadlines**</br>
 - [x] házi1 - 2019. 10. 05.</br>
