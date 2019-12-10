@@ -1,0 +1,4 @@
+A:Debrecen:2014:10000
+B:Budapest:2013:20000
+A:Debrecen:2012:10000
+A:Budapest:2013:10000

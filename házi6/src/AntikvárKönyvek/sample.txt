@@ -1,0 +1,6 @@
+Gardonyi Geza;Egri csillagok;2011
+Biblia;2010
+Vamos Miklos;A csillagok vilaga;2010
+Gardonyi Geza;Egri csillagok;2002
+Ramez Elmasri;Shamkant B. Navathe;Fundamentals of Database Systems;2010
+Agatha Christie;Halal a Niluson;2010

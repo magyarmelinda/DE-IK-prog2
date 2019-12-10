@@ -1,0 +1,4 @@
+Renata;eper,citrom,csokolade
+Laci;csokolade,csokolade,malna,sargabarack
+Johnny Firpo;karamella,tutti frutti,rumos dio,kave,pisztacia
+Csilla;citrom,malna

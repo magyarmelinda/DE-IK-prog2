@@ -1,0 +1,9 @@
+1:A...BO..A.
+1999:.O...O.B.A
+2016:.O..OOA...
+END
+A:OABOO..OOOA.
+Cs:O..OOB.OO.AB
+Dzs:OB.BO.AOOOA.
+Z:O..AO..OOOAB
+END

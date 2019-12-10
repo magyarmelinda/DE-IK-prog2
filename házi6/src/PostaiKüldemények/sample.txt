@@ -1,0 +1,4 @@
+Gipsz Jakab:4027:Debrecen:Böszörményi út:12:30000
+Teszt Elek:4031:Debrecen:Kishegyesi út:31:20000
+Menő Jenő:4028:Debrecen:Kassai út:26:10000
+Béna Béla:4027:Debrecen:Sinai Miklós utca:10:50000

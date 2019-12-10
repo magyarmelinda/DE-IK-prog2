@@ -1,0 +1,9 @@
+Peter:Matrahaza-Sirok:22
+Nikolett:Nograd-Becske:60
+Aron:Sumeg-Sarvar:72
+Peter:Sirok-Szarvasko:20
+Gabor:Becske-Nograd:60
+Nikolett:Huvosvolgy-Piliscsaba:22
+Peter:Szarvasko-Putnok:62
+Gabor:Nagymaros-Nograd:40
+Nikolett:Sarvar-Sumeg:72
