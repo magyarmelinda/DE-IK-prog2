@@ -1,5 +1,5 @@
 # Programozási nyelvek 2
-Java programming assignments for "Programming 2" course at University of Debrecen. 🎓
+Java programming assignments for the "Programming 2" course at the University of Debrecen. 🎓
 
 
 **BEKÜLDÉSI HATÁRIDŐK**
